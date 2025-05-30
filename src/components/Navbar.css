@@ -1,0 +1,23 @@
+.navbar {
+  background-color: transparent; /* Adjust background color as needed */
+  padding: 10px 20px;
+  width: 100%;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: flex-start; /* Aligns logo to the left */
+  align-items: center;
+  max-width: 1300px; /* Adjust max-width as needed */
+  margin: 0 auto;
+}
+
+.navbar-logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  height: 50px; /* Adjust size as needed */
+  width: auto;
+}
