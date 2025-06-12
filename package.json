@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage":"https://diegocl02.github.io/3R-Partners/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
