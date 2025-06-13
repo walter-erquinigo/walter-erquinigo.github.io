@@ -17,7 +17,7 @@ function App() {
       <div className="video-background">
         <video autoPlay loop muted>
           <source src="videos/background.mp4" type="video/mp4" />
-          Tu navegador no soporta la etiqueta de video.
+          Tu navegador no soporta la etiqueta de video
         </video>
         <div className="content-wrapper">
           <div className="content">
@@ -42,7 +42,7 @@ function App() {
                   <i className="fab fa-whatsapp"></i> WhatsApp
                 </a>
                 <a href="mailto:TUCORREO@EJEMPLO.COM" className="contact-link email">
-                  <i className="fas fa-envelope"></i> Correo
+                  <i className="fas fa-envelope"></i> Mail
                 </a>
               </div>
             )}
