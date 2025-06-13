@@ -6,7 +6,7 @@ function Navbar() {
     <nav className="navbar">
       <div className="navbar-container">
         <a href="/" className="navbar-logo">
-          <img src="/3R-Partners/3R.svg" alt="Los 3 Rosqueteros" className="logo-img" />
+          <img src="/3R.svg" alt="Los 3 Rosqueteros" className="logo-img" />
         </a>
       </div>
     </nav>
