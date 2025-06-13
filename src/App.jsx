@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './App.css';
 import  Navbar from './components/Navbar'
 
@@ -21,8 +21,9 @@ function App() {
         </video>
         <div className="content-wrapper">
           <div className="content">
-            <h1>Welcome to 3R Partners.</h1>
-            <p>Discover amazing things with us.</p>
+            <h1>Welcome to 3R Partners</h1>
+            <p>At 3R Partners, we don’t just consult — we <em>create</em>. </p>
+            <p> We help businesses transform ideas into rock-solid digital experiences </p>
 
             {/* Renderizado condicional: Si showContactLinks es falso, muestra el botón */}
             {!showContactLinks ? (
